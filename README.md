@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring VC Investor & Product Manager
 --------------------------------------
 
-My name is Christian and I'm an Economics, Computer Science & Entrepreneurship student at McGill University. I'm interested in front-end web development, product, venture capital and all things startups! To learn more about me check out this podcast:[Podcast](https://www.youtube.com/watch?v=oQECInxJV0w)
+My name is Christian and I'm an Economics, Computer Science & Entrepreneurship student at McGill University. I'm interested in front-end web development, product, venture capital and all things startups! To learn more about me check out this podcast: [Podcast](https://www.youtube.com/watch?v=oQECInxJV0w)
 
 
 * 🌍  I'm based in Montreal
