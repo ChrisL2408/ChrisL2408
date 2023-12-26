@@ -7,7 +7,7 @@ Aspiring VC Investor & Product Manager
 My name is Christian and I'm an Economics, Computer Science & Entrepreneurship student at McGill University. I'm interested in front-end web development, product, venture capital and all things startups! To learn more about me check out this podcast: [Podcast](https://www.youtube.com/watch?v=oQECInxJV0w)
 
 
-* 🌍  I'm based in Montreal
+* 🌍  I'm based in Montreal, Canada but originally grew up in Singapore for most of my life!
 * ✉️  You can contact me at [christian.l@frontrow.vc](mailto:christian.l@frontrow.vc)
 * 🧠  I'm learning Javascript & React and brushing up on my front-end development skills to help me build Web Apps for personal project MVPs.
 * ⚡  In my free time, I actively train and compete in Brazilian Jiu-Jitsu and have been training for around 4 years!
