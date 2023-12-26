@@ -12,6 +12,12 @@ My name is Christian and I'm an Economics, Computer Science & Entrepreneurship s
 * 🧠  I'm learning Javascript & React and brushing up on my front-end development skills to help me build Web Apps for personal project MVPs.
 * ⚡  In my free time, I actively train and compete in Brazilian Jiu-Jitsu and have been training for around 4 years!
 
+### Experience
+* 🚀 Hack4Impact McGill: Project Manager (Sept 23'- Present)
+* 📈 Front Row Ventures: QC Director of Investments (May 23' - Present)
+* 💰 Inovia Capital: VC Summer Investment Analyst (May 23' - Aug 23')
+* Growth/Biz Ops/Product at various startups from EdTech to Defi
+  
 ### Skills
 
 
@@ -23,3 +29,5 @@ My name is Christian and I'm an Economics, Computer Science & Entrepreneurship s
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/chrisL2408" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/christian-levan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
